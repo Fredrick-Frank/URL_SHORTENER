@@ -1,0 +1,6 @@
+POST  http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.google.com/search?q=Metomic+linkedin&sxsrf=ALiCzsYRMUXl0TWQZhYOSCd_cdapjSncng%3A1655894249461&ei=6fCyYsTcG_-Oxc8PpNCJ6Ak&ved=0ahUKEwiE9Zjk7sD4AhV_R_EDHSRoAp0Q4dUDCA4&uact=5&oq=Metomic+linkedin&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEOgcIABBHELADOgQIIxAnOhAILhCxAxCDARDHARDRAxBDOggIABCxAxCRAjoECAAQQzoLCAAQgAQQsQMQgwE6BggAEB4QB0oECEEYAEoECEYYAFDqB1iHE2DeGGgBcAF4AIABxAGIAdIIkgEDMC42mAEAoAEBoAECyAEIwAEB&sclient=gws-wiz"
+}
